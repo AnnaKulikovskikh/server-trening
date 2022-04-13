@@ -1,0 +1,24 @@
+{
+  "name": "server-trening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "watch": "forever -w server.js",
+    "start": "forever server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaKulikovskikh/server-trening.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaKulikovskikh/server-trening/issues"
+  },
+  "homepage": "https://github.com/AnnaKulikovskikh/server-trening#readme",
+  "dependencies": {
+    "forever": "^4.0.3",
+    "koa": "^2.13.4"
+  }
+}

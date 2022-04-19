@@ -19,6 +19,7 @@
   "homepage": "https://github.com/AnnaKulikovskikh/server-trening#readme",
   "dependencies": {
     "forever": "^4.0.3",
-    "koa": "^2.13.4"
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0"
   }
 }
